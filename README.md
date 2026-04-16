@@ -1,6 +1,6 @@
-# <img src="localledger.png" width="32"> LocalLedger
+# <img src="./localledger.png" width="32"> LocalLedger
 
-LocalLedger is a locally runnable, lightweight, and secure budgeting platform designed for macOS and Windows.
+LocalLedger is (planned to be) a locally runnable, lightweight, and secure budgeting platform designed for macOS and Windows.
 
 ## Tech Stack
 
